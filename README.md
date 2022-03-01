@@ -1,0 +1,2 @@
+# tocompare
+döngükarşılaştırma
